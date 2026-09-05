@@ -1,0 +1,1 @@
+# Ottimizzazione-di-un-traccia-curve-in-regime-pulsato
