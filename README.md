@@ -3,4 +3,4 @@ Questa è la repository adibita a immagazzinare le varie porzioni di codice riad
 pulsato per dispositivi di potenza" del candidato "Russo Pasquale". Università degli Studi di Napoli Federico II.
 
 L'applicazione principale è titolata "IV_forwardTDS544Alatest".
-Le dipendenze non riportare sono state deliberatamente omesse, in quanto non sono state oggetto di modifiche sostanziali da parte del candidato. Per tali porzioni di codice si faccia riferimento al lavoro pregresso realizzato dal candidato "Turboli Salvatore" in: “Sviluppo di una Logica di Controllo per un Caratteristigrafo Pulsato Basata su Microcontrollore STM32F401RET6”. Elaborato di Laurea. Università degli Studi di Napoli Federico II., 2023-2024.
+Le dipendenze non riportate sono state deliberatamente omesse, in quanto non sono state oggetto di modifiche sostanziali da parte del candidato. Per tali porzioni di codice si faccia riferimento al lavoro pregresso realizzato dal candidato "Turboli Salvatore" in: “Sviluppo di una Logica di Controllo per un Caratteristigrafo Pulsato Basata su Microcontrollore STM32F401RET6”. Elaborato di Laurea. Università degli Studi di Napoli Federico II., 2023-2024.
